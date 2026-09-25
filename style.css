@@ -137,7 +137,9 @@ nav a:hover {
     font-size: 20px;
     font-weight: 600;
     margin-top: 38px;
-    margin-bottom: 20px;
+    margin-bottom: 28px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #d8d8d8;
 }
 
 .page h3 {

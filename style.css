@@ -72,10 +72,10 @@ nav a:hover {
 }
 
 .profile-photo {
-    width: 185px !important;
-    height: 185px !important;
-    max-width: 185px !important;
+    width: 185px;
+    height: 240px;
     object-fit: cover;
+    object-position: center;
     border-radius: 18px;
     display: block;
 }

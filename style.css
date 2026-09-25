@@ -237,9 +237,15 @@ footer {
         gap: 30px;
     }
 
-    .profile-photo {
-    width: 170px;
-    height: 220px;
+    .profile {
+    width: 100%;
+    text-align: center;
+}
+
+.profile-photo {
+    width: 185px;
+    height: 240px;
+    margin: 0 auto;
 }
     .teaching-entry {
         grid-template-columns: 1fr;

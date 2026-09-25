@@ -72,12 +72,17 @@ nav a:hover {
 }
 
 .profile-photo {
-    width: 185px;
-    height: 185px;
+    width: 185px !important;
+    height: 185px !important;
+    max-width: 185px !important;
     object-fit: cover;
     border-radius: 18px;
     display: block;
 }
+.profile {
+    width: 205px;
+}
+
 /* 소개 부분 */
 
 .intro {
